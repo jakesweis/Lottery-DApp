@@ -8,3 +8,6 @@ test-ledger
 Users
 yarn.lock
 Cargo.lock
+id.json
+.vscode
+migrations
