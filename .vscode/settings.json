@@ -1,0 +1,7 @@
+{
+    "rust-analyzer.linkedProjects": [
+        "./programs/lottery/Cargo.toml",
+        "./programs/lottery/Cargo.toml",
+        "./programs/lottery/Cargo.toml"
+    ]
+}
